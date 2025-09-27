@@ -7,7 +7,7 @@
 ## 🚀 Installation
 from **npm**:
 ```bash
-npm npm i telegram-bot-commands-api
+npm i telegram-bot-commands-api
 ```
 
 ## ✨ Basic Example
