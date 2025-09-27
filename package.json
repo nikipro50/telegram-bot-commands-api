@@ -1,6 +1,6 @@
 {
   "name": "telegram-bot-commands-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Commands API for Telegram Bot in node-telegram-bot-api",
   "main": "build/src/command-api.js",
   "types": "build/src/command-api.d.ts",
